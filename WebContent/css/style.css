@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+.titulol
+{
+	text-align:center;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 50px;
+}
+
+
+.bodys
+{
+	background-image: url("../img/fondo.jpg");
+}
+
+.tituloa
+{
+	text-align:center;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 50px;
+}
+
+.bodyn
+{
+	background-image: url("../img/fondo.jpg");
+}
+
+.titulom
+{
+	text-align:center;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 50px;
+}
+
+.bodym
+{
+	background-image: url("../img/fondo.jpg");
+}
